@@ -1,0 +1,149 @@
+name: scaiqit30
+description: SCAI QIT 30
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+# The following section is specific to Flutter.
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+  - assets/avatar.png
+  - assets/backdrop.png
+  - assets/video1_thumb.png
+  - assets/video4_thumb.png
+  - assets/video3_thumb.png
+  - assets/video2_thumb.png
+  - assets/blue01.jpg
+  - assets/blue02.jpg
+  - assets/blue03.jpg
+  - assets/blue04.jpg
+
+  - assets/BG01-Feathers.jpg
+  - assets/BG02-Bricks.jpg
+  - assets/BG03-stones.jpg
+  - assets/BG04-Beach.jpg
+  - assets/BG05-ocean.jpg
+  - assets/BG06-dolphin.jpg
+  - assets/BG07-drops-of-water.jpg
+  - assets/BG08-splashing.jpg
+  - assets/BG09-water.jpg
+  - assets/BG10-guitar.jpg
+  - assets/BG11-Musician.jpg
+  - assets/BG12-bikini.jpg
+  - assets/BG13-Sharks.jpg
+
+  - assets/BG14-turquoise-abstraction.jpg
+  - assets/BG15-Material-Wallpaper.jpg
+  - assets/BG16-Material-Wallpaper.jpg
+  - assets/BG17-Material-Wallpaper.jpg
+  - assets/BG18-Material-Wallpaper.png
+  - assets/BG19-Material-Wallpaper.jpg
+  - assets/BG20-Material-Wallpaper.jpg
+  - assets/BG21-Material-Wallpaper.jpg
+  - assets/BG22-Material-Wallpaper.png
+
+  - assets/BG30-blue.jpg
+
+
+  - assets/BG31.jpg
+  - assets/BG32.jpg
+  - assets/BG33.jpg
+  - assets/BG34.jpg
+  - assets/BG35.jpg
+  - assets/BG36.jpg
+  - assets/BG37.jpg
+  - assets/BG38.jpg
+  - assets/BG39.jpg
+  - assets/BG40.jpg
+  - assets/BG41.jpg
+  - assets/BG42.jpg
+  - assets/BG43.jpg
+  - assets/BG44.jpg
+  - assets/BG45.jpg
+  - assets/BG46.jpg
+  - assets/BG47.jpg
+  - assets/BG48.jpg
+  - assets/BG49.jpg
+  - assets/BG60.jpg
+  - assets/BG61.jpg
+  - assets/BG62.jpg
+  - assets/BG63.jpg
+  - assets/BG64.jpg
+  - assets/BG65.jpg
+  - assets/BG66.jpg
+
+  - assets/BG70.jpg
+  - assets/BG71.jpg
+  - assets/BG80.jpg
+  - assets/BG81.jpg
+  - assets/BG82.jpg
+  - assets/BG83.jpg
+  - assets/BG84.jpg
+  - assets/BG85.jpg
+  - assets/BG86.jpg
+  - assets/BG87.jpg
+
+  - assets/BG100.jpg
+  - assets/BG101.jpg
+  - assets/BG102.jpg
+  - assets/BG103.jpg
+  - assets/BG104.jpg
+
+  - assets/BG200.jpg
+  - assets/BG201.jpg
+  - assets/BG202.jpg
+  - assets/BG203.jpg
+  - assets/BG204.jpg
+  - assets/BG205.jpg
+  - assets/BG206.jpg
+  - assets/BG207.jpg
+  - assets/BG208.jpg
+  - assets/BG209.jpg
+
+  - assets/BG220.jpg
+  - assets/BG221.jpg
+  - assets/BG222.jpg
+  - assets/BG223.jpg
+  - assets/BG224.jpg
+  - assets/BG225.jpg
+  - assets/BG226.jpg
+  - assets/BG227.jpg
+  - assets/BG228.jpg
+  - assets/BG229.jpg
+  - assets/BG230.jpg
+  - assets/BG231.jpg
+  - assets/BG232.jpg
+  - assets/BG233.jpg
+  - assets/BG234.jpg
+  - assets/BG235.jpg
+  - assets/BG236.jpg
+
+
+
+
+  - assets/TC01.jpg
+  - assets/TC02.jpg
+  - assets/TC03.jpg
+
+
+  - assets/TCLogo001.jpg
+
+
+  - assets/SQ01QITToolkit.jpg
+  - assets/SQ01sponsors.gif
+  - assets/SQ01logo_0_0.png
+  - assets/SQ04maxresdefault.jpg
+  - assets/SQ05images.png
